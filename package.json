@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/Heitor7070/1024b-backend-Heitor/issues"
   },
-  "homepage": "https://github.com/Heitor7070/1024b-backend-Heitor#readme"
+  "homepage": "https://github.com/Heitor7070/1024b-backend-Heitor#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.18.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.3.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
 }
