@@ -1,0 +1,20 @@
+{
+  "name": "1024b-backend-heitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heitor7070/1024b-backend-Heitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heitor7070/1024b-backend-Heitor/issues"
+  },
+  "homepage": "https://github.com/Heitor7070/1024b-backend-Heitor#readme"
+}
